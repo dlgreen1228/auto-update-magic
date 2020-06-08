@@ -23,7 +23,7 @@ TRIGGERS=(
 
     # "Adobe Flash Player"
 
-    # "Firefox"
+     "Firefox"
 
     # "Google Chrome"
 
@@ -51,7 +51,7 @@ BLOCKING_APPS=(
 
     # "no_blocking_apps" # blocking apps for Flash
 
-    # "Firefox" # blocking apps for Firefox
+     "Firefox" # blocking apps for Firefox
 
     # "Google Chrome" # blocking apps for Chrome
 
